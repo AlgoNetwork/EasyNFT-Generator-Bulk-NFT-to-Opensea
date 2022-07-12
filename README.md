@@ -1,5 +1,5 @@
 # EasyNFt-Bulk-NFt-to-Opensea
-EasyNFt-Bulk NFt to Opensea
+EasyNFt-Bulk NFTs to Opensea
 
 # Bee-Sender-v2
 Publish NFT to Opensea is the same easy as upload pictures.<br><br>
