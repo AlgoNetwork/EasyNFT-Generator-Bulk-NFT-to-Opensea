@@ -10,8 +10,9 @@ Ethereum,Polygon and Rinkeby testnetwork.<br><br>
 <img src="https://github.com/AlgoNetwork/Bee-Sender-v2/blob/main/img/3.png" width="25" height="25" alt="Rinkeby"> 
 <br>
 
- 
-
+# video tutorial:
+https://youtu.be/EtsNzwdBNWQ
+<br><br>
 <img src="https://github.com/AlgoNetwork/EasyNFt-Bulk-NFt-to-Opensea/blob/main/screen.png" alt="erc20-tokens-multi-sender">
 
 
