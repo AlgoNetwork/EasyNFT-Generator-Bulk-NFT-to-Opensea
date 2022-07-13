@@ -2,7 +2,7 @@
 
 
 # EasyNFt Generator
-Publish NFT to Opensea is the same easy as upload pictures.<br><br>
+Publish NFT to Opensea is the same easy as upload pictures to a website.<br><br>
 Current support Blockchain networks:<br>
 Ethereum,Polygon and Rinkeby testnetwork.<br><br>
 <img src="https://github.com/AlgoNetwork/Bee-Sender-v2/blob/main/img/1.png" width="25" height="25" alt="Ethereum"> 
