@@ -1,7 +1,7 @@
-# EasyNFt Generator-Bulk-NFt-to-Opensea
-EasyNFt-Bulk NFTs to Opensea
+# EasyNFt Generator--Bulk NFt to Opensea
 
-# Bee-Sender-v2
+
+# EasyNFt Generator
 Publish NFT to Opensea is the same easy as upload pictures.<br><br>
 Current support Blockchain networks:<br>
 Ethereum,Polygon and Rinkeby testnetwork.<br><br>
