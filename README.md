@@ -1,4 +1,4 @@
-# EasyNFt-Bulk-NFt-to-Opensea
+# EasyNFt Generator-Bulk-NFt-to-Opensea
 EasyNFt-Bulk NFTs to Opensea
 
 # Bee-Sender-v2
@@ -16,7 +16,7 @@ https://youtu.be/EtsNzwdBNWQ
 <img src="https://github.com/AlgoNetwork/EasyNFt-Bulk-NFt-to-Opensea/blob/main/screen.png" alt="erc20-tokens-multi-sender">
 
 
-https://algonetwork.github.io/EasyNFt-Bulk-NFt-to-Opensea/
+https://algonetwork.github.io/EasyNFT-Generator-Bulk-NFT-to-Opensea/
 
 
 
