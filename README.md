@@ -13,7 +13,11 @@ Ethereum,Polygon and Rinkeby testnetwork.<br><br>
 # video tutorial:
 https://youtu.be/EtsNzwdBNWQ
 <br><br>
-<img src="https://github.com/AlgoNetwork/EasyNFt-Bulk-NFt-to-Opensea/blob/main/screen.png" alt="erc20-tokens-multi-sender">
+
+
+<img src="https://github.com/AlgoNetwork/EasyNFT-Generator-Bulk-NFT-to-Opensea/blob/main/img/gif.gif" alt="Bulk NFT">
+
+<img src="https://github.com/AlgoNetwork/EasyNFt-Bulk-NFt-to-Opensea/blob/main/screen.png" alt="Easy NFT">
 
 
 https://algonetwork.github.io/EasyNFT-Generator-Bulk-NFT-to-Opensea/
