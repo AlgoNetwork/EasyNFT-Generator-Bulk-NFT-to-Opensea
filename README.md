@@ -29,6 +29,10 @@ https://algonetwork.github.io/EasyNFT-Generator-Bulk-NFT-to-Opensea/
 Open js/config.js<br>
 Change the address to your own address,customize fee you will recieve.<br>
 
+## Attention
+```
+After modifying the address, please refresh the website to visit after more than ten minutes, because the github cache or website may not have been changed, so the charging address is still the previous address.
+```
 
 # Deploy to your github page
 https://github.com/AlgoNetwork/Page<br>
